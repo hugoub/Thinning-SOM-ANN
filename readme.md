@@ -90,6 +90,12 @@ Permite hacer:
 - Gráfico de toroide mostrando los clusters.
 - Gráficos de clusters en 2 dimensiones 
 
+## Otros
+
+- Ingenieria_de_datos_cosecha.py: Corrige los datos para ser usados en la regresión lineal y red neuronal. Se genera el archivo datos_corregidos_cosecha.csv a partir de los datos en bruto Vnoc.csv en la carpeta datasets\madera.
+- Ingenieria_de_datos_raleo.py: Corrige los datos para ser usados en los SOM’s. Se genera el archivo datos_corregidos_raleo.csv a partir de los datos en bruto Vnoc.csv en la carpeta datasets\madera.
+
+
 
 # Requerimientos
 
