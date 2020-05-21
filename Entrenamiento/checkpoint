@@ -1,0 +1,2 @@
+model_checkpoint_path: "mod-2-50-Sigmoid-0.001-4096-100-5-4"
+all_model_checkpoint_paths: "mod-2-50-Sigmoid-0.001-4096-100-5-4"
